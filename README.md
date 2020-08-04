@@ -39,4 +39,4 @@ Command line:
 ## License
 TRBotBingo is licensed under the [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/).
 
-See the [LICENSE](https://github.com/teamradish/TRBotBingo/blob/master/LICENSE) file for the full terms. See the [Dependency Licenses](https://github.com/teamradish/TRBotBingo/blob/master/Dependency Licenses) file for the licenses of third party libraries used by TRBotBingo.
+See the [LICENSE](https://github.com/teamradish/TRBotBingo/blob/master/LICENSE) file for the full terms. See the [Dependency Licenses](https://github.com/teamradish/TRBotBingo/blob/master/Dependency%20Licenses) file for the licenses of third party libraries used by TRBotBingo.
