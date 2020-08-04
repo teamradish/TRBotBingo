@@ -11,7 +11,7 @@ Upon starting TRBotBingo, a `BingoConfig.txt` file is created in the same direct
 * BingoBoardCellSize - The size of each tile on the bingo board
 * BingoBoardPosOffset - The initial position of the bingo board
 * BingoBoardSpacing - How far apart each tile on the bingo board is spaced from one another
-* BingoPipeFilePath - The path to the pipe file that TRBot can use to interact with the bingo board. This is created automatically. The default is the same folder as the executable.
+* BingoPipeFilePath - The path to the pipe file that TRBot can use to interact with the bingo board. This is created automatically. The default path is the same folder as the executable with the name "BingoPipe". **Both TRBot and TRBotBingo must be reading from the same file to interact with each other!** Check your paths!
 * WindowSize - The size of the window for the bingo game.
 * FPS - How fast to run the bingo game in FPS. The board isn't demanding, so only set this higher if you want updates to reflect faster. Recommended: 15
 
